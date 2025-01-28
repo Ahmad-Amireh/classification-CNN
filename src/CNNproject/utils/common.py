@@ -4,8 +4,8 @@ import yaml
 from CNNproject import logger
 import json
 import joblib
-from ensure import ensure_annotations
-from box import ConfigBox
+from ensure import ensure_annotations #to enforce annotation to apply otherowise error 
+from box import ConfigBox #access dictionary using dic.key
 from pathlib import Path
 from typing import Any
 import base64
