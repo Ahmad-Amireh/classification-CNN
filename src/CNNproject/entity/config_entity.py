@@ -18,3 +18,10 @@ class PrepareBaseModelConfig:
     params_weight: str
     params_classes: int 
     params_image_size: list
+
+
+@dataclass(frozen= True)
+class PrepareCallbacksConfig: 
+    root_dir : Path
+    transorboard_root_log_dir : Path
+    checkpoint_model_filepath : Path

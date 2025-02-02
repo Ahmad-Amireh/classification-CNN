@@ -1,6 +1,6 @@
 from CNNproject.constants import * 
 from CNNproject.utils.common import read_yaml, create_directories
-from CNNproject.entity.config_entity import DataIngestionConfig,PrepareBaseModelConfig
+from CNNproject.entity.config_entity import DataIngestionConfig,PrepareBaseModelConfig,PrepareCallbacksConfig
 
 class ConfigurationManager: 
     def __init__ ( self,config_file_path = CONFIG_YAML, params_file_path = PARMAS_YAML):
@@ -35,5 +35,24 @@ class ConfigurationManager:
 
 
         return prepare_base_model_config
+    
+
+    def get_prepare_call_back_config(self) -> PrepareCallbacksConfig : 
+        config = self.config.prepare_callbacks
+        model_ckpt_dir = os.path.dirname(config.checkpoint_model_filepath)
+        create_directories([
+            Path (model_ckpt_dir),
+            Path(config.transorboard_root_log_dir)
+        ])
+
+        prepare_call_back_config = PrepareCallbacksConfig (
+            root_dir = Path(config.root_dir),
+            transorboard_root_log_dir = Path(config.transorboard_root_log_dir), 
+            checkpoint_model_filepath= Path(config.checkpoint_model_filepath)
+            )
+
+        return prepare_call_back_config
+
+
     
         
