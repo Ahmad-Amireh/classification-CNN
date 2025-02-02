@@ -12,3 +12,8 @@ build/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+.artifacts/
+artifacts/
+.logs/
+logs/*
