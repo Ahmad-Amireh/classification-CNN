@@ -388,3 +388,935 @@ Source-Age: 51
 [2025-02-03 01:41:58,625: INFO: common: yaml file params.yaml loadded successfully]
 [2025-02-03 01:41:58,625: INFO: common: Created directory at: artifacts]
 [2025-02-03 01:41:58,630: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2025-02-03 01:41:58,631: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-06 15:55:56,943: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-06 15:55:56,943: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-06 15:55:56,943: INFO: common: Created directory at: artifacts]
+[2025-02-06 15:55:56,943: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-06 15:55:56,949: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:08:21,431: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:08:21,434: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:08:21,436: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:08:21,437: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:08:21,437: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:09:38,825: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:09:38,828: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:09:38,828: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:09:52,718: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:09:52,718: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:09:52,724: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:10:38,368: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:10:38,370: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:10:38,373: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:10:38,375: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:10:38,376: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:11:08,895: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:11:08,896: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:11:08,896: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:11:08,896: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:11:08,896: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:15:53,701: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:15:53,704: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:15:53,705: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:15:53,706: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:15:53,707: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:17:38,084: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:17:38,086: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:17:38,086: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:17:38,086: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2025-02-07 01:17:38,086: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:17:51,620: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:17:51,621: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:17:51,621: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:17:51,621: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:17:51,621: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:21:46,019: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:21:46,021: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:21:46,022: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:21:46,023: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:21:46,023: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:21:46,026: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:21:46,300: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 01:25:28,678: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:25:28,678: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:25:28,678: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:25:28,683: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:25:28,684: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:25:28,685: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:25:28,872: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 01:26:31,730: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:26:31,732: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:26:31,734: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:26:31,734: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:26:31,734: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:26:31,734: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:26:31,921: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 01:28:12,347: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:28:12,348: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:28:12,348: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:28:12,351: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:28:12,352: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:28:12,353: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:28:12,505: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 01:38:53,371: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:38:53,371: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:38:53,371: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:38:53,377: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:38:53,378: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:38:53,378: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:38:53,540: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 01:39:27,015: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:39:27,016: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:39:27,016: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:39:27,019: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:39:27,020: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:39:27,021: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:39:27,187: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 01:44:28,172: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:44:28,173: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:44:28,175: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:44:28,176: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:44:28,176: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:44:28,176: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:44:28,340: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 01:48:13,282: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:48:13,288: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:48:13,289: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:48:13,289: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2025-02-07 01:48:13,289: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:48:35,294: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 01:48:35,294: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 01:48:35,294: INFO: common: Created directory at: artifacts]
+[2025-02-07 01:48:35,294: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 01:48:35,294: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 01:48:35,294: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 01:48:35,470: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 02:06:54,828: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:06:54,843: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:06:54,843: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:06:54,843: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:06:54,843: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:06:58,181: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EDE2:236F27:16184A3:16FD4F3:67A54090
+Accept-Ranges: bytes
+Date: Thu, 06 Feb 2025 23:06:57 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10564-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1738883216.472222,VS0,VE539
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 74300355398d9240e92600258926fb71de48296d
+Expires: Thu, 06 Feb 2025 23:11:57 GMT
+Source-Age: 0
+
+]
+[2025-02-07 02:06:58,597: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:06:58,597: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 02:06:58,612: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:06:58,612: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:06:58,612: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:06:58,612: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 02:06:58,845: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:06:58,968: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:06:59,028: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:07:39,385: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:07:39,385: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:07:39,388: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:07:39,389: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 02:07:39,390: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 02:07:39,391: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 02:07:39,698: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 02:13:10,334: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:13:10,334: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:13:10,334: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:13:10,334: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:13:10,334: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:13:10,334: ERROR: main: local variable 'file_name' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 10, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\data_ingestion.py", line 22, in download_file
+    logger.info(f"{file_name} is already exists of size: {get_size(Path(self.config.local_data_file))}")
+UnboundLocalError: local variable 'file_name' referenced before assignment
+[2025-02-07 02:21:49,816: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:21:49,816: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:21:49,816: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:21:49,816: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:21:49,816: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:21:52,560: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EDE2:236F27:16184A3:16FD4F3:67A54090
+Accept-Ranges: bytes
+Date: Thu, 06 Feb 2025 23:21:51 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10573-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1738884111.286962,VS0,VE253
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 784f421f7186bf4a04c9ff43f0333eb30c1ce817
+Expires: Thu, 06 Feb 2025 23:26:51 GMT
+Source-Age: 0
+
+]
+[2025-02-07 02:21:53,003: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:21:53,003: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 02:21:53,003: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:21:53,003: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:21:53,003: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:21:53,003: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 02:21:53,244: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:21:53,328: ERROR: main: `keras.optimizers.legacy` is not supported in Keras 3. When using `tf.keras`, to continue using a `tf.keras.optimizers.legacy` optimizer, you can install the `tf_keras` package (Keras 2) and set the environment variable `TF_USE_LEGACY_KERAS=True` to configure TensorFlow to use `tf_keras` when accessing `tf.keras`.]
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 21, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_02_prepare_base_model.py", line 17, in main
+    prepare_base_model.update_base_model()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\prepare_base_model.py", line 57, in update_base_model
+    self.full_model = self._prepare_full_model (
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\prepare_base_model.py", line 47, in _prepare_full_model
+    optimizer = tf.keras.optimizers.legacy.SGD(learning_rate= learning_rate),
+  File "C:\Users\aamer\miniconda3\envs\myenv\lib\site-packages\keras\src\optimizers\__init__.py", line 115, in __init__
+    raise ImportError(
+ImportError: `keras.optimizers.legacy` is not supported in Keras 3. When using `tf.keras`, to continue using a `tf.keras.optimizers.legacy` optimizer, you can install the `tf_keras` package (Keras 2) and set the environment variable `TF_USE_LEGACY_KERAS=True` to configure TensorFlow to use `tf_keras` when accessing `tf.keras`.
+[2025-02-07 02:24:04,779: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:24:04,794: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:24:04,794: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:24:04,794: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:24:04,794: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:24:04,794: ERROR: main: local variable 'file_name' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 10, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\data_ingestion.py", line 22, in download_file
+    logger.info(f"{file_name} is already exists of size: {get_size(Path(self.config.local_data_file))}")
+UnboundLocalError: local variable 'file_name' referenced before assignment
+[2025-02-07 02:25:10,358: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:25:10,358: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:25:10,358: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:25:10,358: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:25:10,358: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:25:12,786: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EDE2:236F27:16184A3:16FD4F3:67A54090
+Accept-Ranges: bytes
+Date: Thu, 06 Feb 2025 23:25:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10520-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1738884312.699640,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3bbe1b3c73f5bdf4bfaadc1726ebf5b706570781
+Expires: Thu, 06 Feb 2025 23:30:11 GMT
+Source-Age: 200
+
+]
+[2025-02-07 02:25:13,149: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:25:13,149: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 02:25:13,150: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:25:13,150: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:25:13,150: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:25:13,150: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 02:25:13,372: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:25:13,477: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:25:13,540: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:25:46,291: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:25:46,293: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:25:46,293: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:25:46,295: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 02:25:46,295: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 02:25:46,297: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 02:25:46,468: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 02:31:25,975: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:31:25,982: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:31:25,982: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:31:25,982: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:31:25,982: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:31:28,544: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EDE2:236F27:16184A3:16FD4F3:67A54090
+Accept-Ranges: bytes
+Date: Thu, 06 Feb 2025 23:31:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10529-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1738884687.241410,VS0,VE204
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7934908a6486e8b818173480dc88aaa30e77e58a
+Expires: Thu, 06 Feb 2025 23:36:27 GMT
+Source-Age: 0
+
+]
+[2025-02-07 02:31:28,744: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:31:28,744: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 02:31:28,745: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:31:28,745: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:31:28,745: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:31:28,745: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 02:31:28,999: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:31:29,103: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:31:29,183: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:32:17,329: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:32:17,329: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:32:17,329: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:32:17,329: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:32:17,329: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:32:19,308: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EDE2:236F27:16184A3:16FD4F3:67A54090
+Accept-Ranges: bytes
+Date: Thu, 06 Feb 2025 23:32:18 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs1050112-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1738884738.315789,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6d3ba83388d3b020bb2b1b182038c7e1334fa78a
+Expires: Thu, 06 Feb 2025 23:37:18 GMT
+Source-Age: 51
+
+]
+[2025-02-07 02:32:19,534: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:32:19,534: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 02:32:19,534: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:32:19,549: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:32:19,549: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:32:19,549: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 02:32:19,760: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-02-07 02:32:19,832: ERROR: main: `keras.optimizers.legacy` is not supported in Keras 3. When using `tf.keras`, to continue using a `tf.keras.optimizers.legacy` optimizer, you can install the `tf_keras` package (Keras 2) and set the environment variable `TF_USE_LEGACY_KERAS=True` to configure TensorFlow to use `tf_keras` when accessing `tf.keras`.]
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 21, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_02_prepare_base_model.py", line 17, in main
+    prepare_base_model.update_base_model()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\prepare_base_model.py", line 57, in update_base_model
+    self.full_model = self._prepare_full_model (
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\prepare_base_model.py", line 47, in _prepare_full_model
+    optimizer = tf.keras.optimizers.legacy.SGD(learning_rate= learning_rate),
+  File "C:\Users\aamer\miniconda3\envs\myenv\lib\site-packages\keras\src\optimizers\__init__.py", line 115, in __init__
+    raise ImportError(
+ImportError: `keras.optimizers.legacy` is not supported in Keras 3. When using `tf.keras`, to continue using a `tf.keras.optimizers.legacy` optimizer, you can install the `tf_keras` package (Keras 2) and set the environment variable `TF_USE_LEGACY_KERAS=True` to configure TensorFlow to use `tf_keras` when accessing `tf.keras`.
+[2025-02-07 02:46:14,789: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 02:46:14,794: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:46:14,797: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:46:14,798: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:46:14,800: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 02:46:18,400: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EDE2:236F27:16184A3:16FD4F3:67A54090
+Accept-Ranges: bytes
+Date: Thu, 06 Feb 2025 23:46:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10558-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1738885577.975127,VS0,VE148
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 19aa5e1cc09338c51803de2756dac82df1067312
+Expires: Thu, 06 Feb 2025 23:51:17 GMT
+Source-Age: 0
+
+]
+[2025-02-07 02:46:19,027: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:46:19,027: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 02:46:19,027: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:46:19,043: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:46:19,043: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:46:19,043: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 02:46:21,701: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 02:46:22,170: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 02:47:28,151: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 02:47:28,151: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 02:47:28,151: INFO: common: Created directory at: artifacts]
+[2025-02-07 02:47:28,151: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-07 02:47:28,151: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-07 02:47:28,157: INFO: common: Created directory at: artifacts\training]
+[2025-02-07 13:55:31,603: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 13:55:31,603: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 13:55:31,603: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 13:55:31,603: INFO: common: Created directory at: artifacts]
+[2025-02-07 13:55:31,603: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 13:55:31,603: ERROR: main: local variable 'file_name' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 11, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\data_ingestion.py", line 22, in download_file
+    logger.info(f"{file_name} is already exists of size: {get_size(Path(self.config.local_data_file))}")
+UnboundLocalError: local variable 'file_name' referenced before assignment
+[2025-02-07 13:56:31,131: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 13:56:31,131: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 13:56:31,131: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 13:56:31,131: INFO: common: Created directory at: artifacts]
+[2025-02-07 13:56:31,131: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 13:56:38,054: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F3EC:3C6D6B:12302F3:12F29F6:67A5E6DE
+Accept-Ranges: bytes
+Date: Fri, 07 Feb 2025 10:56:32 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs1050097-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1738925792.092090,VS0,VE823
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 30ba555208db6286c3f48c72270226b0139081a3
+Expires: Fri, 07 Feb 2025 11:01:32 GMT
+Source-Age: 0
+
+]
+[2025-02-07 13:56:38,425: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 13:56:38,441: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 13:56:38,441: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 13:56:38,441: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 13:56:38,441: INFO: common: Created directory at: artifacts]
+[2025-02-07 13:56:38,441: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 13:56:40,368: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 13:56:40,572: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 13:56:40,572: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-07 13:56:40,572: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 13:56:40,572: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 13:56:40,572: INFO: common: Created directory at: artifacts]
+[2025-02-07 13:56:40,572: ERROR: main: 'ConfigurationManager' object has no attribute 'get_prepare_callback_config']
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 34, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_03_training.py", line 14, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_prepare_callback_config'
+[2025-02-07 13:59:54,221: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-07 13:59:54,221: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 13:59:54,221: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 13:59:54,237: INFO: common: Created directory at: artifacts]
+[2025-02-07 13:59:54,237: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-07 13:59:57,307: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F3EC:3C6D6B:12302F3:12F29F6:67A5E6DE
+Accept-Ranges: bytes
+Date: Fri, 07 Feb 2025 10:59:54 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10526-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1738925995.931997,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ca157c6f8706fbb36304c68197e91dc898cea5de
+Expires: Fri, 07 Feb 2025 11:04:54 GMT
+Source-Age: 202
+
+]
+[2025-02-07 13:59:57,808: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 13:59:57,808: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-07 13:59:57,808: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 13:59:57,823: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 13:59:57,823: INFO: common: Created directory at: artifacts]
+[2025-02-07 13:59:57,823: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-07 13:59:59,730: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-07 13:59:59,929: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-07 13:59:59,929: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-07 13:59:59,929: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-07 13:59:59,929: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-07 13:59:59,929: INFO: common: Created directory at: artifacts]
+[2025-02-07 13:59:59,929: ERROR: main: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 34, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_03_training.py", line 14, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\config\configuration.py", line 46, in get_prepare_callback_config
+    Path(config.transorboard_root_log_dir)
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"
+[2025-02-09 21:43:23,894: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-09 21:43:23,897: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:43:23,897: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:43:23,897: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:43:23,897: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-09 21:43:26,426: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8B7E:3CC017:32A2957:3451A04:67A8F74A
+Accept-Ranges: bytes
+Date: Sun, 09 Feb 2025 18:43:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs1050111-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1739126602.189193,VS0,VE533
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4da5408cb0ba6269a0ee077c30cf191929d7d3b1
+Expires: Sun, 09 Feb 2025 18:48:22 GMT
+Source-Age: 0
+
+]
+[2025-02-09 21:43:26,661: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:43:26,661: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-09 21:43:26,670: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:43:26,670: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:43:26,670: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:43:26,670: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-09 21:43:27,506: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-09 21:43:27,691: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:43:27,696: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-09 21:43:27,696: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:43:27,698: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:43:27,698: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:43:27,698: ERROR: main: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 34, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_03_training.py", line 14, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\config\configuration.py", line 46, in get_prepare_callback_config
+    Path(config.transorboard_root_log_dir)
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"
+[2025-02-09 21:46:08,840: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-09 21:46:08,840: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:46:08,840: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:46:08,840: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:46:08,840: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-09 21:46:10,855: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8B7E:3CC017:32A2957:3451A04:67A8F74A
+Accept-Ranges: bytes
+Date: Sun, 09 Feb 2025 18:46:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10549-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739126767.155608,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5d0cbd879043eab486f05acd53af303c82462f96
+Expires: Sun, 09 Feb 2025 18:51:07 GMT
+Source-Age: 165
+
+]
+[2025-02-09 21:46:11,158: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:46:11,159: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-09 21:46:11,160: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:46:11,160: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:46:11,160: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:46:11,160: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-09 21:46:13,029: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-09 21:46:13,203: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:46:13,203: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-09 21:46:13,203: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:46:13,203: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:46:13,203: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:46:13,203: ERROR: main: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'transorboard_root_log_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'transorboard_root_log_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 34, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_03_training.py", line 14, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\config\configuration.py", line 46, in get_prepare_callback_config
+    Path(config.transorboard_root_log_dir)
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'transorboard_root_log_dir'"
+[2025-02-09 21:48:12,789: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-09 21:48:12,791: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:48:12,791: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:48:12,791: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:48:12,791: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-09 21:48:14,377: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8B7E:3CC017:32A2957:3451A04:67A8F74A
+Accept-Ranges: bytes
+Date: Sun, 09 Feb 2025 18:48:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10583-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739126891.756400,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7427597f38b3e1d59840e266150c8ea2f2b952d8
+Expires: Sun, 09 Feb 2025 18:53:10 GMT
+Source-Age: 288
+
+]
+[2025-02-09 21:48:14,626: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:48:14,626: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-09 21:48:14,629: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:48:14,629: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:48:14,631: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:48:14,631: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-09 21:48:16,461: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-09 21:48:16,685: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:48:16,685: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-09 21:48:16,688: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:48:16,688: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:48:16,688: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:48:16,691: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2025-02-09 21:48:16,691: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-09 21:48:16,691: ERROR: main: __init__() got an unexpected keyword argument 'tensorboard_root_log_dir']
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 34, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_03_training.py", line 14, in main
+    prepare_callbacks_config = config.get_prepare_callback_config()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\config\configuration.py", line 49, in get_prepare_callback_config
+    prepare_call_back_config = PrepareCallbacksConfig (
+TypeError: __init__() got an unexpected keyword argument 'tensorboard_root_log_dir'
+[2025-02-09 21:50:57,997: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-09 21:50:57,997: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:50:58,000: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:50:58,000: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:50:58,000: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-09 21:50:59,987: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8B7E:3CC017:32A2957:3451A04:67A8F74A
+Accept-Ranges: bytes
+Date: Sun, 09 Feb 2025 18:50:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10532-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739127056.219776,VS0,VE156
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 32537e1e9f8be573d00e58953a908e0c77e19bc6
+Expires: Sun, 09 Feb 2025 18:55:56 GMT
+Source-Age: 0
+
+]
+[2025-02-09 21:51:00,301: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:51:00,301: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-09 21:51:00,301: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:51:00,317: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:51:00,317: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:51:00,317: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-09 21:51:02,217: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-09 21:51:02,345: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-09 21:51:02,345: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-09 21:51:02,345: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-09 21:51:02,345: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-09 21:51:02,345: INFO: common: Created directory at: artifacts]
+[2025-02-09 21:51:02,353: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2025-02-09 21:51:02,353: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-09 21:51:02,355: INFO: common: Created directory at: artifacts\training]
+[2025-02-09 22:45:26,857: INFO: main: >>> stage Training Stage completed <<<<<< 
+
+ ====== ]
