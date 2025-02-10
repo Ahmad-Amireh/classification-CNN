@@ -9,6 +9,7 @@ from box import ConfigBox #access dictionary using dic.key
 from pathlib import Path
 from typing import Any
 import base64
+import tensorflow as tf
 
 
 @ensure_annotations
@@ -98,13 +99,13 @@ def save_bin (path:Path, data:Any):
 
 
 @ensure_annotations
-def losad_json (path:Path):
+def load_bin (path:Path):
     """Save binary data
     
     Args:
         path (str): path to binary file 
         """
-    with open (path,"w") as f: 
+    with open (path,"rb") as f: 
         data = joblib.load(f)
 
     logger.info(f"Binary file loadded successfully from : {[path]}")

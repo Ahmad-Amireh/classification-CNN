@@ -19,6 +19,7 @@ class TrainingPipeline:
         training = Training(config = training_config)
         training.get_base_model()
         training.train_valid_generator()
+        training.save_test_data()
         training.train(callback_list=callback_list)
 
 

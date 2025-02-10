@@ -1320,3 +1320,266 @@ Source-Age: 0
 [2025-02-09 22:45:26,857: INFO: main: >>> stage Training Stage completed <<<<<< 
 
  ====== ]
+[2025-02-10 01:03:53,470: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 01:03:53,474: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 01:03:53,476: INFO: common: Created directory at: artifacts]
+[2025-02-10 01:03:53,477: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-10 01:03:53,477: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 01:03:53,479: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 01:04:59,257: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 01:04:59,258: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 01:04:59,259: INFO: common: Created directory at: artifacts]
+[2025-02-10 01:04:59,259: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-10 01:04:59,262: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 01:04:59,263: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 01:06:59,427: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 01:06:59,430: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 01:06:59,431: INFO: common: Created directory at: artifacts]
+[2025-02-10 01:06:59,432: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-10 01:06:59,433: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 01:06:59,433: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 12:29:30,204: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 12:29:30,210: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 12:29:30,210: INFO: common: Created directory at: artifacts]
+[2025-02-10 12:29:30,212: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 12:30:18,526: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 12:30:18,528: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 12:30:18,529: INFO: common: Created directory at: artifacts]
+[2025-02-10 12:30:18,530: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 12:55:44,602: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 12:55:44,603: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 12:55:44,604: INFO: common: Created directory at: artifacts]
+[2025-02-10 12:55:44,605: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-10 12:55:44,605: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 12:55:44,608: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 13:40:49,092: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 13:40:49,093: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 13:40:49,095: INFO: common: Created directory at: artifacts]
+[2025-02-10 13:40:49,095: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-10 13:40:49,095: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 13:40:49,100: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 13:54:52,263: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 13:54:52,263: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 13:54:52,268: INFO: common: Created directory at: artifacts]
+[2025-02-10 13:54:52,268: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-10 13:54:52,268: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 13:54:52,271: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 14:12:23,241: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 14:12:23,243: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 14:12:23,243: INFO: common: Created directory at: artifacts]
+[2025-02-10 14:12:23,243: INFO: common: Created directory at: artifacts/prepare_callbacks/checkpoint_dir]
+[2025-02-10 14:12:23,247: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 14:12:23,251: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 14:22:49,964: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 14:22:49,969: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 14:22:49,969: INFO: common: Created directory at: artifacts]
+[2025-02-10 14:23:09,217: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 14:23:09,219: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 14:23:09,220: INFO: common: Created directory at: artifacts]
+[2025-02-10 14:23:09,484: INFO: common: Binary file loadded successfully from : [WindowsPath('artifacts/test_data/test_data.pkl')]]
+[2025-02-10 14:23:15,875: INFO: common: Json file saved at: [WindowsPath('scores.json')]]
+[2025-02-10 14:26:32,302: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 14:26:32,307: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 14:26:32,310: INFO: common: Created directory at: artifacts]
+[2025-02-10 14:27:08,733: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 14:27:08,733: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 14:27:08,733: INFO: common: Created directory at: artifacts]
+[2025-02-10 14:27:08,972: INFO: common: Binary file loadded successfully from : [WindowsPath('artifacts/test_data/test_data.pkl')]]
+[2025-02-10 14:27:15,226: INFO: common: Json file saved at: [WindowsPath('scores.json')]]
+[2025-02-10 14:56:30,005: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 14:56:30,007: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 14:56:30,007: INFO: common: Created directory at: artifacts]
+[2025-02-10 14:56:30,216: INFO: common: Binary file loadded successfully from : [WindowsPath('artifacts/test_data/test_data.pkl')]]
+[2025-02-10 14:56:35,674: INFO: common: Json file saved at: [WindowsPath('scores.json')]]
+[2025-02-10 15:05:21,155: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-10 15:05:21,155: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 15:05:21,155: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 15:05:21,155: INFO: common: Created directory at: artifacts]
+[2025-02-10 15:05:21,155: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-10 15:05:21,155: ERROR: main: local variable 'file_name' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 13, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\data_ingestion.py", line 22, in download_file
+    logger.info(f"{file_name} is already exists of size: {get_size(Path(self.config.local_data_file))}")
+UnboundLocalError: local variable 'file_name' referenced before assignment
+[2025-02-10 15:13:22,615: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-10 15:13:22,615: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 15:13:22,615: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 15:13:22,615: INFO: common: Created directory at: artifacts]
+[2025-02-10 15:13:22,615: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-10 15:13:22,615: ERROR: main: 'DataIngestionConfig' object has no attribute 'local_data_file']
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 13, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\data_ingestion.py", line 23, in download_file
+    logger.info(f"{file_name} is already exists of size: {get_size(Path(self.config.local_data_file))}")
+AttributeError: 'DataIngestionConfig' object has no attribute 'local_data_file'
+[2025-02-10 15:14:00,056: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-10 15:14:00,056: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 15:14:00,056: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 15:14:00,060: INFO: common: Created directory at: artifacts]
+[2025-02-10 15:14:00,060: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-10 15:14:02,328: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EB39:8863:1103CE9:1196D90:67A9ED88
+Accept-Ranges: bytes
+Date: Mon, 10 Feb 2025 12:14:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10551-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1739189641.529403,VS0,VE553
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 21be6b5256df1ba8bee4143a03b2c796252926db
+Expires: Mon, 10 Feb 2025 12:19:01 GMT
+Source-Age: 0
+
+]
+[2025-02-10 15:14:02,595: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-10 15:14:02,597: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-10 15:14:02,598: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 15:14:02,599: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 15:14:02,599: INFO: common: Created directory at: artifacts]
+[2025-02-10 15:14:02,600: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-10 15:14:04,445: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-10 15:14:04,610: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-10 15:14:04,611: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-10 15:14:04,612: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 15:14:04,613: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 15:14:04,614: INFO: common: Created directory at: artifacts]
+[2025-02-10 15:14:04,614: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2025-02-10 15:14:04,614: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 15:14:04,614: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 15:33:07,226: INFO: main: >>> stage Training Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-10 15:33:07,226: INFO: main: >>> stage Evaluation Stage started >>>]
+[2025-02-10 15:33:07,229: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 15:33:07,230: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 15:33:07,231: INFO: common: Created directory at: artifacts]
+[2025-02-10 15:33:07,413: ERROR: main: [Errno 2] No such file or directory: 'artifacts\\test_data\\test_data.pkl']
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 48, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_04_evaluation.py", line 16, in main
+    evaluation.evaluation()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\evaluation.py", line 50, in evaluation
+    self._valid_generator = self._valid_generator()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\evaluation.py", line 14, in _valid_generator
+    test_data_info = load_bin(file_path)  # Load test data
+  File "C:\Users\aamer\miniconda3\envs\myenv\lib\site-packages\ensure\main.py", line 807, in __call__
+    return self.f(*args, **kwargs)
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\utils\common.py", line 108, in load_bin
+    with open (path,"rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts\\test_data\\test_data.pkl'
+[2025-02-10 16:38:13,042: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:38:13,042: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:38:13,042: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:40:02,274: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:40:02,276: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:40:02,277: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:42:04,312: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:42:04,313: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:42:04,313: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:42:04,313: INFO: common: Created directory at: artifacts\test_data\test_data.pkl]
+[2025-02-10 16:43:08,846: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:43:08,846: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:43:08,846: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:43:08,846: INFO: common: Created directory at: artifacts\test_data\test_data.pkl]
+[2025-02-10 16:47:12,765: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-10 16:47:12,765: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:47:12,765: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:47:12,765: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:47:12,765: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-10 16:47:12,765: ERROR: main: local variable 'file_name' referenced before assignment]
+Traceback (most recent call last):
+  File "C:\Users\aamer\OneDrive\Desktop\Projects\train2\main.py", line 13, in <module>
+    obj.main()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "c:\users\aamer\onedrive\desktop\projects\train2\src\CNNproject\components\data_ingestion.py", line 22, in download_file
+    logger.info(f"{file_name} is already exists of size: {get_size(Path(self.config.local_data_file))}")
+UnboundLocalError: local variable 'file_name' referenced before assignment
+[2025-02-10 16:47:23,551: INFO: main: >>> stage Data Ingestion Stage started >>>]
+[2025-02-10 16:47:23,566: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:47:23,566: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:47:23,566: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:47:23,566: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-02-10 16:47:26,101: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded wiht the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E924:3D60F3:4D7C592:502B233:67AA0313
+Accept-Ranges: bytes
+Date: Mon, 10 Feb 2025 13:47:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10542-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1739195244.970044,VS0,VE596
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7622581c6ca53f1e45fb68d55c1379797a29dd82
+Expires: Mon, 10 Feb 2025 13:52:24 GMT
+Source-Age: 0
+
+]
+[2025-02-10 16:47:26,399: INFO: main: >>> stage Data Ingestion Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-10 16:47:26,399: INFO: main: >>> stage Prepare Base Model Stage started >>>]
+[2025-02-10 16:47:26,399: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:47:26,399: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:47:26,415: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:47:26,415: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2025-02-10 16:47:28,333: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-10 16:47:28,654: INFO: main: >>> stage Prepare Base Model Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-10 16:47:28,654: INFO: main: >>> stage Training Stage started >>>]
+[2025-02-10 16:47:28,654: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:47:28,654: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:47:28,654: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:47:28,654: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2025-02-10 16:47:28,654: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2025-02-10 16:47:28,662: INFO: common: Created directory at: artifacts\training]
+[2025-02-10 16:48:42,824: INFO: main: >>> stage Training Stage completed <<<<<< 
+
+ ====== ]
+[2025-02-10 16:48:42,825: INFO: main: >>> stage Evaluation Stage started >>>]
+[2025-02-10 16:48:42,827: INFO: common: yaml file config\config.yaml loadded successfully]
+[2025-02-10 16:48:42,828: INFO: common: yaml file params.yaml loadded successfully]
+[2025-02-10 16:48:42,829: INFO: common: Created directory at: artifacts]
+[2025-02-10 16:48:43,052: INFO: common: Binary file loadded successfully from : [WindowsPath('artifacts/test_data/test_data.pkl')]]
+[2025-02-10 16:48:48,366: INFO: common: Json file saved at: [WindowsPath('scores.json')]]
+[2025-02-10 16:48:48,366: INFO: main: >>> stage Evaluation Stage completed <<<<<< 
+
+ ====== ]
