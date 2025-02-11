@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify,render_template
 import os
 from flask_cors import CORS
 from CNNproject.utils.common import decodeImage
@@ -16,7 +16,8 @@ clApp = ClientApp()  # Instantiate before defining routes
 
 @app.route("/", methods=["GET"])
 def home():
-    return jsonify({"message": "Flask API is running!"})
+    #return jsonify({"message": "Flask API is running!"})
+    return render_template("index.html")
 
 @app.route("/train", methods=["GET", "POST"])
 def train_Route():
